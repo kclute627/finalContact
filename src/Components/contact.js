@@ -15,6 +15,7 @@ class Contact extends Component {
         })
     }
     submitHandler = (e)=> {
+        // runnug
         e.preventDefault()
         this.setState({
             name: '',
