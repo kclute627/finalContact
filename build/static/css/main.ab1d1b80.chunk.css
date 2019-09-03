@@ -1,0 +1,2 @@
+.App{display:grid;grid-template-columns:.5fr 1fr .5fr;grid-template-rows:20vh}.contact-container{grid-column:2/3;grid-row:2/3}.contact-form{text-align:center;display:flex;flex-direction:column;align-items:center;justify-items:center}.contact-form__label{font-size:2rem;margin-bottom:10px}.contact-form__name{padding:2px}.contact-form__submit{background:green;color:#fff;height:2rem;width:6rem;margin-top:1.5rem}.contact-form__message{height:10rem;width:17rem;resize:none}.input{height:1.5rem;width:17rem;margin-bottom:10px}
+/*# sourceMappingURL=main.ab1d1b80.chunk.css.map */
